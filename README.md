@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 Software Engineering student
+- 🎈 ACM/ICPC participant, Learning [algorithms](https://github.com/minamimelon/ACM-ICPC-Templates)
+- 🌱 Currently learning [Machine Learning](https://github.com/minamimelon/MachineLearningNotes)
+- 📝 [My blog](https://github.com/minamimelon/minamimelon.github.io)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minamimelon)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minamimelon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minamimelon/minamimelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
